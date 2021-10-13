@@ -11,9 +11,9 @@
 	<groupId>com.youngdevs</groupId>
 	<artifactId>AlemDoPote</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<name>azure-spring-oracle</name>
 	
 	<packaging>war</packaging>
-	<name>AlemDoPote</name>
 	<description>Projeto web do Alem do pote. Desenvolvido pelo grupo YoungDevs para a Challenge 2021</description>
 	<properties>
 		<java.version>11</java.version>
